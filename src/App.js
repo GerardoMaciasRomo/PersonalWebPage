@@ -4,11 +4,12 @@ import Home from "./pages/Home";
 import Hobbies from "./pages/Hobbies";
 import Professional from "./pages/Profesional";
 import Academic from "./pages/Academic";
-
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
     <Routes>
+      <ScrollToTop />
       <Route path="/" element={<Home />} />
       <Route path="/hobbies" element={<Hobbies />} />
       <Route path="/professional" element={<Professional />} />
