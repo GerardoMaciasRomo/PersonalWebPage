@@ -72,7 +72,7 @@ useEffect(() => {
               onMouseEnter={() => setActiveIndex(index)}
               onMouseLeave={() => setActiveIndex(null)}
               onClick={() => navigate(card.url)}
-              className={` transition-all duration-300  flex items-center justify-center text-zinc-100 text-xl h-40 rounded-xl shadow-lg cursor-pointer 
+              className={` transition-all duration-300  flex items-center justify-center text-center text-zinc-100 text-xl h-40 rounded-xl shadow-lg cursor-pointer 
                 ${cards[index].color} 
                 ${isActive ? "flex-[2]" : "flex-[1]"} 
               `}
