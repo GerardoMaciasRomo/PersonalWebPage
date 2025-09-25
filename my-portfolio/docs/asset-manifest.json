@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.bc08cad2.js",
+    "static/js/453.438d9e50.chunk.js": "/static/js/453.438d9e50.chunk.js",
+    "static/media/Yo2022.jpg": "/static/media/Yo2022.6a69b74659c675c405a3.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.bc08cad2.js.map": "/static/js/main.bc08cad2.js.map",
+    "453.438d9e50.chunk.js.map": "/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bc08cad2.js"
+  ]
+}
