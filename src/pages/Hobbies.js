@@ -5,7 +5,7 @@ export default function Hobbies() {
 <section class="py-12 bg-gradient-to-br from-black via-zinc-700 to-gray-800 text-gray-100 sm:py-12 lg:py-16">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="max-w-xl mx-auto text-center xl:max-w-2xl">
-                        <p class="mb-4">I don´t have many hobbies but...</p>
+                        <p class="mb-4"> don´t have many hobbies but...</p>
             <h2 class="text-3xl font-bold leading-tight text-cyan-700 sm:text-4xl xl:text-5xl mb-6">I always enjoy
                 reading!</h2>
             <p class="mb-4">"Reading is to the mind what exercise is to the body." — Joseph Addison</p>
