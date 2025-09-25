@@ -35,7 +35,7 @@ useEffect(() => {
   <div className="App flex flex-col items-center bg-gradient-to-br from-black via-zinc-700 to-gray-800 text-white font-[Times_New_Roman] ">
     
       <h1 className="text-4xl font-bold text-cyan-700 mt-35 mb-10">Hi, I'm Gerardo</h1>
-      <p className="text-lg text-gray-100 text-3xl mb-6">Artificial Intelligence Engineer | Fullstack Developer</p>
+      <p className="text-lg text-gray-100  text-center text-3xl mb-6">Artificial Intelligence Engineer | Fullstack Developer</p>
       <div className="flex gap-4 mt-6">
         <SocialButton icon={FaGithub} url="https://github.com/GerardoMaciasRomo" />
         <SocialButton icon={FaLinkedin} url="https://www.linkedin.com/in/gerardo-macías-romo-572235209/" />
