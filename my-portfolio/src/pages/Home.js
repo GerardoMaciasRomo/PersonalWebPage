@@ -27,8 +27,8 @@ useEffect(() => {
 
     const cards = [
     { title: "Hobbies & Interests", color: "bg-gradient-to-br from-cyan-900 via-cyan-800 to-cyan-600", url: "/hobbies" },
-    { title: "Professional Experience", color: "bg-gradient-to-br from-cyan-600 via-cyan-800 to-cyan-900", url: "/hobbies" },
-    { title: "Academic Projects", color: "bg-gradient-to-br from-cyan-900 via-cyan-800 to-cyan-600", url: "/hobbies" },
+    { title: "Professional Experience", color: "bg-gradient-to-br from-cyan-600 via-cyan-800 to-cyan-900", url: "/Professional" },
+    { title: "Academic Projects", color: "bg-gradient-to-br from-cyan-900 via-cyan-800 to-cyan-600", url: "/Academic" },
   ];
   
   return (
