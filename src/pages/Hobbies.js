@@ -5,7 +5,7 @@ export default function Hobbies() {
 <section class="py-12 bg-gradient-to-br from-black via-zinc-700 to-gray-800 text-gray-100 sm:py-12 lg:py-16">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="max-w-xl mx-auto text-center xl:max-w-2xl">
-                        <p class="mb-4"> don´t have many hobbies but...</p>
+                        <p class="mb-4">I don´t have many hobbies but...</p>
             <h2 class="text-3xl font-bold leading-tight text-cyan-700 sm:text-4xl xl:text-5xl mb-6">I always enjoy
                 reading!</h2>
             <p class="mb-4">"Reading is to the mind what exercise is to the body." — Joseph Addison</p>
@@ -22,12 +22,8 @@ export default function Hobbies() {
                 <div class="transition-transform duration-400 relative overflow-hidden  bg-gradient-to-r from-zinc-300 to-zinc-50 shadow-md rounded-xl h-full hover:scale-103">
                     <div class="p-9"><svg class="w-12 h-12 mx-auto text-gray-400 sm:mx-0" viewBox="0 0 24 24"
                             fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M11 8L20 8" stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                            <path d="M4 16L14 16" stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                            <ellipse cx="7" cy="8" rx="3" ry="3" transform="rotate(90 7 8)" stroke="#111827"
-                                stroke-width="2" stroke-linecap="round"></ellipse>
-                            <ellipse cx="17" cy="16" rx="3" ry="3" transform="rotate(90 17 16)" stroke="#111827"
-                                stroke-width="2" stroke-linecap="round"></ellipse>
+                            <path d="M12 6.5C10.3 5.3 8.2 4.5 6 4.5C4.9 4.5 3.9 4.7 3 5V18.5C3.9 18.2 4.9 18 6 18C8.2 18 10.3 18.8 12 20M12 6.5C13.7 5.3 15.8 4.5 18 4.5C19.1 4.5 20.1 4.7 21 5V18.5C20.1 18.2 19.1 18 18 18C15.8 18 13.7 18.8 12 20M12 6.5V20"
+                                stroke="#111827" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                         </svg>
                         <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Why I Read</h3>
                         <p class="mt-6 text-base text-gray-600">Reading fuels my imagination and broadens my perspective</p>
@@ -37,17 +33,9 @@ export default function Hobbies() {
             <div class="transition-transform duration-400 overflow-hidden bg-gradient-to-br from-zinc-50 to-zinc-300 shadow-md rounded-xl hover:scale-103">
                 <div class="p-9"><svg class="w-12 h-12 mx-auto text-gray-400 sm:mx-0" viewBox="0 0 24 24" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
-                        <rect x="13" y="14" width="2" height="2" rx="1" fill="#111827"></rect>
-                        <rect x="7" y="11" width="2" height="6" rx="1" fill="#111827"></rect>
-                        <rect x="11" y="13" width="2" height="6" rx="1" transform="rotate(90 11 13)" fill="#111827">
-                        </rect>
-                        <rect x="16" y="12" width="2" height="2" rx="1" fill="#111827"></rect>
-                        <path
-                            d="M14 8V8C14 7.58326 14 7.37488 13.9655 7.19144C13.8455 6.5546 13.4245 6.01534 12.8358 5.74455C12.6662 5.66654 12.464 5.616 12.0597 5.51493L12 5.5C11.5388 5.3847 11.3082 5.32706 11.1171 5.233C10.5686 4.96315 10.1737 4.45731 10.0449 3.85979C10 3.65151 10 3.41382 10 2.93845V2"
-                            stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                        <path
-                            d="M3 14C3 11.4412 3 10.1618 3.61994 9.28042C3.77954 9.05351 3.96572 8.85041 4.17372 8.6763C4.98164 8 6.15442 8 8.5 8H15.5C17.8456 8 19.0184 8 19.8263 8.6763C20.0343 8.85041 20.2205 9.05351 20.3801 9.28042C21 10.1618 21 11.4412 21 14C21 16.5588 21 17.8382 20.3801 18.7196C20.2205 18.9465 20.0343 19.1496 19.8263 19.3237C19.0184 20 17.8456 20 15.5 20H8.5C6.15442 20 4.98164 20 4.17372 19.3237C3.96572 19.1496 3.77954 18.9465 3.61994 18.7196C3 17.8382 3 16.5588 3 14Z"
-                            stroke="#111827" stroke-width="2"></path>
+                        <rect x="3" y="4" width="14" height="4" rx="1" stroke="#111827" stroke-width="2"></rect>
+                        <rect x="5" y="10" width="14" height="4" rx="1" stroke="#111827" stroke-width="2"></rect>
+                        <rect x="3" y="16" width="14" height="4" rx="1" stroke="#111827" stroke-width="2"></rect>
                     </svg>
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Favorite Genres</h3>
                     <p class="mt-6 text-base text-gray-600">Philosophy, Russian and English literature of the 19th century, Greco-Roman classics, 20th 
@@ -64,12 +52,10 @@ export default function Hobbies() {
                 <div class="transition-transform duration-400 relative overflow-hidden bg-gradient-to-br from-zinc-300 to-zinc-50 shadow-md rounded-xl h-full hover:scale-103">
                     <div class="p-9"><svg class="w-12 h-12 mx-auto text-gray-400 sm:mx-0" viewBox="0 0 24 24"
                             fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M11 8L20 8" stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                            <path d="M4 16L14 16" stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                            <ellipse cx="7" cy="8" rx="3" ry="3" transform="rotate(90 7 8)" stroke="#111827"
-                                stroke-width="2" stroke-linecap="round"></ellipse>
-                            <ellipse cx="17" cy="16" rx="3" ry="3" transform="rotate(90 17 16)" stroke="#111827"
-                                stroke-width="2" stroke-linecap="round"></ellipse>
+                            <path d="M12 3C8.7 3 6 5.7 6 9C6 11.2 7.2 13.1 9 14.1V16C9 16.6 9.4 17 10 17H14C14.6 17 15 16.6 15 16V14.1C16.8 13.1 18 11.2 18 9C18 5.7 15.3 3 12 3Z"
+                                stroke="#111827" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M10 20H14M10.5 17.5V20M13.5 17.5V20" stroke="#111827" stroke-width="2"
+                                stroke-linecap="round"></path>
                         </svg>
                         <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Impact on Me</h3>
                         <p class="mt-6 text-base text-gray-600">Reading inspires me to think critically and explore new ideas</p>
@@ -79,17 +65,10 @@ export default function Hobbies() {
             <div class="transition-transform duration-400 overflow-hidden bg-gradient-to-br from-zinc-50 to-zinc-300 shadow-md rounded-xl hover:scale-103">
                 <div class="p-9"><svg class="w-12 h-12 mx-auto text-gray-400 sm:mx-0" viewBox="0 0 24 24" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
-                        <rect x="13" y="14" width="2" height="2" rx="1" fill="#111827"></rect>
-                        <rect x="7" y="11" width="2" height="6" rx="1" fill="#111827"></rect>
-                        <rect x="11" y="13" width="2" height="6" rx="1" transform="rotate(90 11 13)" fill="#111827">
-                        </rect>
-                        <rect x="16" y="12" width="2" height="2" rx="1" fill="#111827"></rect>
-                        <path
-                            d="M14 8V8C14 7.58326 14 7.37488 13.9655 7.19144C13.8455 6.5546 13.4245 6.01534 12.8358 5.74455C12.6662 5.66654 12.464 5.616 12.0597 5.51493L12 5.5C11.5388 5.3847 11.3082 5.32706 11.1171 5.233C10.5686 4.96315 10.1737 4.45731 10.0449 3.85979C10 3.65151 10 3.41382 10 2.93845V2"
-                            stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                        <path
-                            d="M3 14C3 11.4412 3 10.1618 3.61994 9.28042C3.77954 9.05351 3.96572 8.85041 4.17372 8.6763C4.98164 8 6.15442 8 8.5 8H15.5C17.8456 8 19.0184 8 19.8263 8.6763C20.0343 8.85041 20.2205 9.05351 20.3801 9.28042C21 10.1618 21 11.4412 21 14C21 16.5588 21 17.8382 20.3801 18.7196C20.2205 18.9465 20.0343 19.1496 19.8263 19.3237C19.0184 20 17.8456 20 15.5 20H8.5C6.15442 20 4.98164 20 4.17372 19.3237C3.96572 19.1496 3.77954 18.9465 3.61994 18.7196C3 17.8382 3 16.5588 3 14Z"
-                            stroke="#111827" stroke-width="2"></path>
+                        <path d="M5 5C5 4 5.8 3.5 7 3.5H18C18.6 3.5 19 3.9 19 4.5V18C19 18.6 18.6 19 18 19H7C5.9 19 5 19.9 5 21V5Z"
+                            stroke="#111827" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M5 17.5C5 16.4 5.9 15.5 7 15.5H19" stroke="#111827" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round"></path>
                     </svg>
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Books that Shaped Me</h3>
                     <p class="mt-6 text-base text-gray-600">The Stranger — Camus  </p>
@@ -106,12 +85,9 @@ export default function Hobbies() {
                 <div class="transition-transform duration-400 relative overflow-hidden bg-gradient-to-br from-zinc-300 to-zinc-50 shadow-md rounded-xl h-full hover:scale-103">
                     <div class="p-9"><svg class="w-12 h-12 mx-auto text-gray-400 sm:mx-0" viewBox="0 0 24 24"
                             fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M11 8L20 8" stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                            <path d="M4 16L14 16" stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                            <ellipse cx="7" cy="8" rx="3" ry="3" transform="rotate(90 7 8)" stroke="#111827"
-                                stroke-width="2" stroke-linecap="round"></ellipse>
-                            <ellipse cx="17" cy="16" rx="3" ry="3" transform="rotate(90 17 16)" stroke="#111827"
-                                stroke-width="2" stroke-linecap="round"></ellipse>
+                            <circle cx="12" cy="12" r="9" stroke="#111827" stroke-width="2"></circle>
+                            <path d="M12 7V12L15 14" stroke="#111827" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round"></path>
                         </svg>
                         <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Reading Habits
                         </h3>
@@ -122,17 +98,11 @@ export default function Hobbies() {
             <div class="transition-transform duration-400 overflow-hidden bg-gradient-to-br from-zinc-50 to-zinc-300 shadow-md rounded-xl hover:scale-103">
                 <div class="p-9"><svg class="w-12 h-12 mx-auto text-gray-400 sm:mx-0" viewBox="0 0 24 24" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
-                        <rect x="13" y="14" width="2" height="2" rx="1" fill="#111827"></rect>
-                        <rect x="7" y="11" width="2" height="6" rx="1" fill="#111827"></rect>
-                        <rect x="11" y="13" width="2" height="6" rx="1" transform="rotate(90 11 13)" fill="#111827">
-                        </rect>
-                        <rect x="16" y="12" width="2" height="2" rx="1" fill="#111827"></rect>
-                        <path
-                            d="M14 8V8C14 7.58326 14 7.37488 13.9655 7.19144C13.8455 6.5546 13.4245 6.01534 12.8358 5.74455C12.6662 5.66654 12.464 5.616 12.0597 5.51493L12 5.5C11.5388 5.3847 11.3082 5.32706 11.1171 5.233C10.5686 4.96315 10.1737 4.45731 10.0449 3.85979C10 3.65151 10 3.41382 10 2.93845V2"
-                            stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
-                        <path
-                            d="M3 14C3 11.4412 3 10.1618 3.61994 9.28042C3.77954 9.05351 3.96572 8.85041 4.17372 8.6763C4.98164 8 6.15442 8 8.5 8H15.5C17.8456 8 19.0184 8 19.8263 8.6763C20.0343 8.85041 20.2205 9.05351 20.3801 9.28042C21 10.1618 21 11.4412 21 14C21 16.5588 21 17.8382 20.3801 18.7196C20.2205 18.9465 20.0343 19.1496 19.8263 19.3237C19.0184 20 17.8456 20 15.5 20H8.5C6.15442 20 4.98164 20 4.17372 19.3237C3.96572 19.1496 3.77954 18.9465 3.61994 18.7196C3 17.8382 3 16.5588 3 14Z"
-                            stroke="#111827" stroke-width="2"></path>
+                        <path d="M12 4L2 9L12 14L22 9L12 4Z" stroke="#111827" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round"></path>
+                        <path d="M6 11V16C6 16 8 18 12 18C16 18 18 16 18 16V11" stroke="#111827" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M22 9V14" stroke="#111827" stroke-width="2" stroke-linecap="round"></path>
                     </svg>
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">My Reading Goals</h3>
                     <p class="mt-6 text-base text-gray-600">I aim to read 52 books this year to keep growing intellectually</p>
